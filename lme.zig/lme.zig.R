@@ -6,7 +6,7 @@ install.packages("remotes")
 remotes::install_github("nyiuab/NBZIMM")
 library("NBZIMM")
 # Estimate Zero-inflated Gaussian Mixed Model Use lme.zig (NBZIMM) With (In) R Software
-lme.zig_ = read.csv("https://raw.githubusercontent.com/timbulwidodostp/lme.zig/main/lme.zig/lme.zig.csv",sep = ";")
+lme.zig = read.csv("https://raw.githubusercontent.com/timbulwidodostp/lme.zig/main/lme.zig/lme.zig.csv",sep = ";")
 lme.zig_Y <- lme.zig$lme.zig
 lme.zig_X1 <- lme.zig$lme.zig_1
 lme.zig_X2 <- lme.zig$lme.zig_2
