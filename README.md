@@ -1,6 +1,8 @@
 # lme.zig
 Zero-inflated Gaussian Mixed Model Use lme.zig (NBZIMM) With (In) R Software
 
+https://www.youtube.com/watch?v=hJkv5tz99xE
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
